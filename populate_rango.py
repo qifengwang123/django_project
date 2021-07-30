@@ -3,7 +3,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'tango_with_django_project.setti
 
 import django
 django.setup()
-from rango.models import Category,Page
+from rango.models import Category, Page
 
 # For an explanation of what is going on here, please refer to the TwD book.
 
